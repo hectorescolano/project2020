@@ -6,5 +6,6 @@
 		<label for="login_pwd">Password:</label>
 		<input type="password" id="login_pwd" name="login_pwd" required="">
 		<button type="submit">Login</button>
+		<button type="reset">Clear</button>
 	</form>
 </div>

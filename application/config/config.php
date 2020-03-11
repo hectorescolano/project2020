@@ -37,6 +37,10 @@ $config['base_url'] = 'http://localhost/brgycase_sys/';
 */
 $config['index_page'] = '';
 
+/* custom configuration */
+$config['css'] = 'assets/css/';
+$config['js'] = 'assets/js/';
+$config['images'] = 'assets/images/';
 /*
 |--------------------------------------------------------------------------
 | URI PROTOCOL
